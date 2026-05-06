@@ -12,7 +12,7 @@ Effective segmentation does not need to be complex. Begin with two or three core
 
 ## 2. Your Subject Lines Are Not Doing Their Job
 
-Research from Campaign Monitor indicates that 47% of recipients decide whether to open an email based on the subject line alone. Subject lines determine whether your email gets opened or ignored. They should be specific, create a sense of relevance, and give the reader a reason to act now rather than later.
+Research from Campaign Monitor indicates that 47% of recipients decide whether to open an email based on the subject line alone. Subject lines should be specific, create a sense of relevance, and give the reader a reason to act now rather than later.
 
 Avoid vague teasers and clickbait. Instead, lead with the value: what will the reader learn or gain by opening this email? Test two or three variations per campaign and let performance data guide your approach over time.
 
@@ -30,8 +30,8 @@ Mobile optimisation is not optional. Use single-column layouts, minimum 16px bod
 
 ## 5. You Are Not Acting on Your Data
 
-Email platforms provide a substantial amount of useful information. Open rates, click-through rates, conversion data, and unsubscribe trends all tell a story about what is working and what is not. Ignoring this data means repeating the same mistakes across every campaign.
+Email platforms surface a rich set of performance metrics that directly inform strategic decisions. Open rates, click-through rates, conversion data, and unsubscribe trends all tell a story about what is working and what is not. Ignoring this data means repeating the same mistakes across every campaign.
 
-Set aside time after each campaign to review performance against your benchmarks. Identify the one or two things that worked well and the one thing you would change. Apply those learnings to the next send. This feedback loop, however simple, will compound into meaningfully better results over time.
+Set aside time after each campaign to review performance against your benchmarks. Identify the one or two things that worked well and the one thing to change next time. Apply those learnings to the next send. This feedback loop, however simple, will compound into meaningfully better results over time.
 
-If you want to improve your email performance, these five areas are a solid place to start. Addressing even one or two of them in your next campaign will put you in a stronger position to demonstrate measurable returns. To go deeper, review our email audit checklist or get in touch to discuss how these principles apply to your specific programme.
+Addressing even one or two of these five areas in your next campaign will put you in a stronger position to demonstrate measurable returns. For a more detailed review, download our email audit checklist or contact us to discuss how these principles apply to your specific programme.
