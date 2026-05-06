@@ -6,19 +6,19 @@ Yet despite this potential, a significant number of campaigns underperform. The 
 
 ## 1. You Are Not Segmenting Your Audience
 
-Sending the same message to your entire list is basically the worst thing you can do tbh. Subscribers have different needs, different levels of familiarity with your brand, and different points in the buying journey. A first-time visitor requires a different message than a loyal customer who has purchased three times.
+Sending the same message to your entire list is one of the most common and damaging mistakes in email marketing. Subscribers have different needs, different levels of familiarity with your brand, and different points in the buying journey. A first-time visitor requires a different message than a loyal customer who has purchased three times.
 
 Effective segmentation does not need to be complex. Begin with two or three core segments — new subscribers, active buyers, and lapsed contacts — and tailor your messaging accordingly. Even this basic structure will improve relevance and reduce unsubscribe rates.
 
 ## 2. Your Subject Lines Are Not Doing Their Job
 
-Studies show that better subject lines improve open rates. Subject lines determine whether your email gets opened or ignored. They should be specific, create a sense of relevance, and give the reader a reason to act now rather than later.
+Research from Campaign Monitor indicates that 47% of recipients decide whether to open an email based on the subject line alone. Subject lines determine whether your email gets opened or ignored. They should be specific, create a sense of relevance, and give the reader a reason to act now rather than later.
 
 Avoid vague teasers and clickbait. Instead, lead with the value: what will the reader learn or gain by opening this email? Test two or three variations per campaign and let performance data guide your approach over time.
 
 ## 3. You Are Ignoring Your Sending Frequency
 
-You need to find the right frequency. Too many emails and subscribers tune out or unsubscribe. Too few and they forget who you are. The right cadence depends on your audience, your content volume, and your campaign goals.
+Sending cadence is one of the most overlooked drivers of list health and engagement. Too many emails and subscribers tune out or unsubscribe. Too few and they forget who you are. The right cadence depends on your audience, your content volume, and your campaign goals.
 
 A practical starting point is one to two emails per week for active campaigns, with a lower frequency for nurture sequences. Monitor unsubscribe rates and engagement trends closely. If either moves in the wrong direction, adjust before the damage compounds.
 
@@ -34,4 +34,4 @@ Email platforms provide a substantial amount of useful information. Open rates, 
 
 Set aside time after each campaign to review performance against your benchmarks. Identify the one or two things that worked well and the one thing you would change. Apply those learnings to the next send. This feedback loop, however simple, will compound into meaningfully better results over time.
 
-If you want to improve your email performance, these five areas are a solid place to start. Good luck out there!
+If you want to improve your email performance, these five areas are a solid place to start. Addressing even one or two of them in your next campaign will put you in a stronger position to demonstrate measurable returns. To go deeper, review our email audit checklist or get in touch to discuss how these principles apply to your specific programme.
