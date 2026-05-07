@@ -8,11 +8,11 @@ Yet despite this potential, a significant number of campaigns underperform. The 
 
 Sending the same message to your entire list is one of the most common and damaging mistakes in email marketing. Subscribers have different needs, different levels of familiarity with your brand, and different points in the buying journey. A first-time visitor requires a different message than a loyal customer who has purchased three times.
 
-In most cases, even this basic structure meaningfully improves relevance and reduces unsubscribe rates compared to unsegmented sending.
+A practical starting point is to segment by lifecycle stage: new subscribers who need onboarding, active customers who are ready for cross-sell or upsell messaging, and lapsed customers who require re-engagement. In most cases, even this basic three-stage structure meaningfully improves relevance and reduces unsubscribe rates compared to unsegmented sending. To implement it, audit your list against purchase history and engagement data, assign each contact to a stage, and create a distinct message template for each group.
 
 ## 2. Your Subject Lines Are Not Doing Their Job
 
-Subject lines should be specific and relevant to the reader. Reference the subscriber's industry, role, or prior behaviour to signal the email was written for them. Give the reader a reason to act now rather than later.
+Subject lines should be specific and relevant to the reader. Reference the subscriber's industry, role, or prior behaviour — such as past purchases, content downloads, or email engagement history — to signal the email was written for them. Give the reader a reason to act now rather than later.
 
 Avoid vague teasers and clickbait. Instead, lead with the value: what will the reader learn or gain by opening this email? Test two or three variations per campaign and let performance data guide your approach over time.
 
@@ -20,7 +20,7 @@ Avoid vague teasers and clickbait. Instead, lead with the value: what will the r
 
 Sending cadence is one of the most overlooked drivers of list health and engagement. Too many emails and subscribers tune out or unsubscribe. Too few and they forget who you are. The right cadence depends on your audience, your content volume, and your campaign goals.
 
-A practical starting point is one to two emails per week for active campaigns, with a lower frequency for nurture sequences. Monitor unsubscribe rates and engagement trends closely. If unsubscribe rates rise above 0.5% or open rates fall more than 10 percentage points week-over-week, adjust your cadence before the damage compounds.
+A practical starting point is one to two emails per week for active campaigns, with a lower frequency for nurture sequences. Monitor unsubscribe rates and engagement trends closely. As a general guideline, if unsubscribe rates rise above 0.5% or open rates fall more than 10 percentage points week-over-week relative to your established baseline, adjust your cadence before the damage compounds.
 
 ## 4. Your Emails Are Not Optimised for Mobile
 
@@ -34,4 +34,4 @@ Email platforms surface a rich set of performance metrics that directly inform s
 
 Set aside time after each campaign to review performance against your benchmarks. Identify the one or two things that worked well and the one thing to change next time. Apply those learnings to the next send. Consistently applied, this feedback loop drives measurable improvement across your key performance indicators.
 
-Addressing these five areas systematically is one of the most direct ways marketing teams can improve measurable returns from their email programme. Download our email audit checklist to get started. If you would like to discuss how these principles apply to your specific programme, contact us directly.
+Addressing these five areas systematically is one of the most direct ways marketing teams can improve measurable returns from their email programme. Download our email audit checklist to get started. For those looking for bespoke guidance, speak with our team to discuss how these principles apply to your specific programme.
