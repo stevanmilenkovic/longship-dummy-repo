@@ -8,7 +8,7 @@ Yet despite this potential, a significant number of campaigns underperform. The 
 
 Sending the same message to your entire list is one of the most common and damaging mistakes in email marketing. Subscribers have different needs, different levels of familiarity with your brand, and different points in the buying journey. A first-time visitor requires a different message than a loyal customer who has purchased three times.
 
-A practical starting point is to segment by lifecycle stage: new subscribers who need onboarding, active customers who are ready for cross-sell or upsell messaging, and lapsed customers who require re-engagement. In most cases, even this basic three-stage structure typically improves relevance and reduces unsubscribe rates compared to unsegmented sending — a pattern consistently observed in industry benchmarks from providers such as Mailchimp and HubSpot. To implement it, audit your list against purchase history and engagement data, assign each contact to a stage, and create a distinct message template for each group.
+A practical starting point is to segment by lifecycle stage: new subscribers who need onboarding, active customers who are ready for cross-sell or upsell messaging, and lapsed customers who require re-engagement. Even this basic three-stage structure is a widely recommended best practice for improving relevance and reducing unsubscribe rates. To implement it, audit your list against purchase history and engagement data, assign each contact to a stage, and create a distinct message template for each group.
 
 ## 2. Your Subject Lines Are Not Doing Their Job
 
@@ -20,7 +20,7 @@ Avoid vague teasers and clickbait. Instead, lead with the value: what will the r
 
 Sending cadence is one of the most overlooked drivers of list health and engagement. Too many emails and subscribers tune out or unsubscribe. Too few and they forget who you are. The right cadence depends on your audience, your content volume, and your campaign goals.
 
-Begin by establishing a baseline cadence of one to two emails per week for active campaigns, with a lower frequency for nurture sequences. Monitor unsubscribe rates and engagement trends closely. As a general guideline, if open rates decline by more than 10 percentage points from your rolling four-week average, or if week-over-week decline is sustained across two or more sends, adjust your cadence before the damage compounds.
+Begin by establishing a baseline cadence of one to two emails per week for active campaigns, with a lower frequency for nurture sequences. Monitor unsubscribe rates and engagement trends closely. As a rough benchmark — and one that will vary depending on your list size and industry — if open rates decline by more than 10 percentage points from your rolling four-week average, or if week-over-week decline is sustained across two or more sends, adjust your cadence before the damage compounds.
 
 ## 4. Your Emails Are Not Optimised for Mobile
 
@@ -34,6 +34,6 @@ Email platforms surface a rich set of performance metrics that directly inform s
 
 Set aside time after each campaign to review performance against your benchmarks. Identify the one or two things that worked well and the one thing to change next time. Apply those learnings to the next send. Consistently applied, this feedback loop drives measurable improvement across your key performance indicators.
 
-Addressing these five areas systematically is one of the most direct ways marketing teams can improve measurable returns from their email programme.
+Teams that address these five structural issues consistently see measurable gains in open rates, click-through rates, and ultimately return on investment — closing the gap between email's well-documented potential and what their programmes actually deliver.
 
-Download our email audit checklist to get started. For those looking for tailored advice, speak with our team to discuss how these principles apply to your specific programme.
+To help you get started, we have put together a step-by-step email audit checklist covering segmentation, subject line testing, cadence, mobile optimisation, and data review — download it below. If you are looking for tailored advice, speak with our team to discuss how these principles apply to your specific programme.
